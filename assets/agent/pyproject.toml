@@ -1,0 +1,14 @@
+[project]
+name = "tw-transcript-agent"
+version = "0.1.0"
+description = "Local-first audio/video transcription agent for polished Traditional Chinese transcripts."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+tw-transcript = "tw_transcript_agent.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+

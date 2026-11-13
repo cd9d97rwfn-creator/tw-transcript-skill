@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "verified_date": "2026-11-11",
+  "note": "來源確認正式拼寫；套用仍依本堂上下文。shared 可供後續課程使用，lesson5/lesson6/lesson7/lesson8 僅限本次逐段檢查之課程，不可跨課套用。一般意向、自信、融合、疫情等詞不可全域取代。",
+  "sources": {},
+  "rules": [
+    {
+      "id": "T001",
+      "scope": "shared",
+      "wrong": "張師大",
+      "correct": "彰師大",
+      "source": "https://gc.ncue.edu.tw/teacher_data.php?action=view&show_ted_no=1614390874",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T002",
+      "scope": "shared",
+      "wrong": "國際意向體現學會",
+      "correct": "國際意象體現學會",
+      "source": "https://humanweb.ncue.edu.tw/p/426-1021-10.php?Lang=zh-tw",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T003",
+      "scope": "shared",
+      "wrong": "意向體現",
+      "correct": "意象體現",
+      "source": "https://humanweb.ncue.edu.tw/p/426-1021-10.php?Lang=zh-tw",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T004",
+      "scope": "shared",
+      "wrong": "印象體現",
+      "correct": "意象體現",
+      "source": "https://humanweb.ncue.edu.tw/p/426-1021-10.php?Lang=zh-tw",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T005",
+      "scope": "shared",
+      "wrong": "輔導與資商學報",
+      "correct": "輔導與諮商學報",
+      "source": "https://humanweb.ncue.edu.tw/p/426-1021-10.php?Lang=zh-tw",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T006",
+      "scope": "shared",
+      "wrong": "Somak Experiencing",
+      "correct": "Somatic Experiencing",
+      "source": "https://www.somaticexperiencing.com/about-peter",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T007",
+      "scope": "shared",
+      "wrong": "Peter LaVine",
+      "correct": "Peter Levine",
+      "source": "https://www.somaticexperiencing.com/about-peter",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T008",
+      "scope": "shared",
+      "wrong": "Robert Bosnick",
+      "correct": "Robert Bosnak",
+      "source": "https://embodiedimagination.com/embodied-imagination/",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T009",
+      "scope": "shared",
+      "wrong": "Robert Bolsinger",
+      "correct": "Robert Bosnak",
+      "source": "https://embodiedimagination.com/embodied-imagination/",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T010",
+      "scope": "shared",
+      "wrong": "Robert Boxenegg",
+      "correct": "Robert Bosnak",
+      "source": "https://embodiedimagination.com/embodied-imagination/",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T011",
+      "scope": "shared",
+      "wrong": "Robert Bosan",
+      "correct": "Robert Bosnak",
+      "source": "https://embodiedimagination.com/embodied-imagination/",
+      "basis": "上下文核對；未逐句回聽。"
+    },
+    {
+      "id": "T012",
+      "scope": "shared",
+      "wrong": "Michael Fotherham",
+      "correct": "Michael Fordham",
+      "source": "https://www.thesap.org.uk/about-us/what-we-do/",
+      "basis": "上下文核對；未逐句回聽。"
+    }
+  ]
+}
